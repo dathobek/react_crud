@@ -1,0 +1,19 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "Create update and delete app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dathobek/react_crud.git"
+  },
+  "author": "Athobe David",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dathobek/react_crud/issues"
+  },
+  "homepage": "https://github.com/dathobek/react_crud#readme"
+}
